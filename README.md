@@ -1,4 +1,4 @@
-# Open-Science-Community-in-Saudi
+# Open Science Community in Saudi
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
