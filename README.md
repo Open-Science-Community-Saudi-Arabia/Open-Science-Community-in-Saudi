@@ -7,7 +7,7 @@ This is the repository where the all projects and activities of the Open Science
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
-- Please follow our [contributing guidelines](/CONTRIBUTING.MD). 
+- Please follow our [contributing guidelines](https://github.com/Open-Science-Community-Saudi-Arabia/Open-Science-Community-in-Saudi/blob/main/CONTRIBUTING.md). 
 
 ## License
 
