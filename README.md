@@ -13,7 +13,9 @@ This is the repository where the all projects and activities of the Open Science
 > Batool Almarzouq. (2021, February). Collaborating on Open Data Science Projects (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4561139
 - DataSharqiah talk "An Open Science Approach to Machine Learning in Biomedical Research", which is availabe [online](https://saudi-data-community.netlify.app/#1)
 > Almarzouq, Batool. (2021, February). An Open Science Approach to Machine Learning in Biomedical Research (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.4557637
-- A Zonodo community [here](https://www.software.ac.uk/cw21).
+- Open Education Week "The Adoption of Open Science in The Middle East", which is availabe [online](https://open-science-week.netlify.app/#1).
+> Almarzouq, Batool. (2021, March). The Adoption of Open Science in The Middle East (Version v.1.2). Zenodo. http://doi.org/10.5281/zenodo.4574543
+- A Zonodo community [here](https://zenodo.org/communities/1231231664/?page=1&size=20).
 
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
