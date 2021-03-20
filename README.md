@@ -1,6 +1,9 @@
-# Open Science Community in Saudi
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
+
+<p align="center">
+<img src= "imgs/Open Science Community SA-01.png" width = 60%>
+<p/>
 
 This is the repository where the all projects and activities of the Open Science Community in Saudi Arabia is documented and planned
 
