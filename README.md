@@ -9,7 +9,7 @@ This is the repository where the all projects and activities of the Open Science
 
 ### Our vision statement:
 
-> **We want to provide a place in Saudi Arabia where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia and MENA region**
+> **We want to provide a place in Saudi Arabia where newcomers and experienced peers interact, inspire each other to embed open science (research) practices and values in their workflows and provide feedback on policies, infrastructures and support services. Together working to make Open Science the norm. So we are calling out to researchers and colleagues in Saudi Arabia and MENA region**.
 >
 > Open Science improves the quality, accessibility, and efficiency of science, but is not yet the norm in research. While pioneering scholars are developing and embracing Open Science practices, the majority sticks to the status quo. To move from pioneers to common practice, we need to engage a critical proportion of the research community.
 > This is where Open Science Communities come into play.
